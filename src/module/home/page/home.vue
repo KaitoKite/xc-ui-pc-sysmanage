@@ -179,7 +179,6 @@
     .main {
       display: flex;
       // background: #324057;
-      //ffff
       position: absolute;
       top: 60px;
       bottom: 0px;
